@@ -1,21 +1,21 @@
 # funcoes-de-agregacao
 
-retorna a quantidade de registros na tabela 
+Retorna a quantidade de registros na tabela.
 
-retorna o valor do jogo de maior preço 
+Retorna o valor do jogo de maior preço.
 
-retorna o valor do jogo de menor preço 
+Retorna o valor do jogo de menor preço.
 
-retorna o valor médio dos jogos
+Retorna o valor médio dos jogos.
 
-retorna o valor total em estoque na loja.
+Retorna o valor total em estoque na loja.
 
-retorna a quantidade de registros na tabela jogo.
+Retorna a quantidade de registros na tabela jogo.
 
-retorna o valor do jogo de maior preço (valor).
+Retorna o valor do jogo de maior preço (valor).
 
-retorna o valor do jogo de menor preço (valor). 
+Retorna o valor do jogo de menor preço (valor). 
 
-retorna o valor médio dos jogos de guerra
+Retorna o valor médio dos jogos de guerra.
 
-retorna o valor total em estoque na loja.
+Retorna o valor total em estoque na loja.
